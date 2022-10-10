@@ -13,6 +13,8 @@
     1-Introdução ao SQL;
     2-Restauração de bancos de dados;
     3-Uso do select para selecionar informações;
+    4-Uso do distinct para selecionar apenas uma vez informações duplicadas nas tabelas;
+    5-Operador where, para selecionar informações que atendem determinada condição;
     [...em construção...]
  
 🌱 Esse projeto está sujeito a melhorias. Sugestões e opiniões sobre o código são sempre bem-vindas!
